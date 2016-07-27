@@ -1,0 +1,4 @@
+.npmignore
+test.js
+.travis.yml
+.gitignore
